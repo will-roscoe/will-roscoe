@@ -10,7 +10,7 @@
   - AOI: Auroral & Magnetospheric Dynamics; Jupiter's Dark Polar Region.
 ### Other Interests:
 - Home Automation & Self-hosted infrastructure (Home Assistant, immich, ...) 
-- Information Management
+
 
 
 
